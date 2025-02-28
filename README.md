@@ -1,12 +1,11 @@
-
 <pre align="center">
 
-   █████╗ ██╗███╗   ███╗ █████╗  ███╗   ███╗ █████╗ ███╗   ██╗
-  ██╔══██╗██║████╗ ████║██╔══██╗ ████╗ ████║██╔══██╗████╗  ██║
-  ███████║██║██╔████╔██║███████║ ██╔████╔██║███████║██╔██╗ ██║
-  ██╔══██║██║██║╚██╔╝██║██╔══██║ ██║╚██╔╝██║██╔══██║██║╚██╗██║
-  ██║  ██║██║██║ ╚═╝ ██║██║  ██║ ██║ ╚═╝ ██║██║  ██║██║ ╚████║
-  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+   █████╗ ██╗███╗   ███╗ █████╗  █████╗ ███╗   ██╗
+  ██╔══██╗██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║
+  ███████║██║██╔████╔██║███████║███████║██╔██╗ ██║
+  ██╔══██║██║██║╚██╔╝██║██╔══██║██╔══██║██║╚██╗██║
+  ██║  ██║██║██║ ╚═╝ ██║██║  ██║║██  ██║██║ ╚████║
+  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
         A I M A A N   K H A N   ( A i M k 9 3 7 )
 
@@ -44,7 +43,7 @@
    - Web-based application streamlining product and stock management.  
 
 4. **IoT Vehicle Tracker**  
-   - Real-time location & speed monitoring to ensure driver and passenger safety.  
+   - Real-time location & speed monitoring to ensure driver and passenger safety.
 
 - Certified Software Engineer at a leading AI & cybersecurity R&D firm  
 - Several research publications in AI-based systems and IoT security  
@@ -82,15 +81,25 @@
 - **IoT-Based Vehicle Monitoring**  
   <em>Enhanced security through real-time data collection & analysis.</em>
 
-*(Replace with your own paper details or remove if N/A.)*
-
 ---
 
 ## 🤝 Let's Connect
 
 - **Email**: [ aimaankhan2610 (at) gmail (dot) com ]  
 - **Phone**: +91 9987786026  
-- *(Add or remove lines if you decide to share additional contact methods.)*
+
+---
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AiMk937&show_icons=true&theme=radical" alt="AIMAAN's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMk937&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiMk937&theme=radical" alt="AIMAAN's Streak Stats" height="160"/>
+</p>
 
 ---
 
