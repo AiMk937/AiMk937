@@ -76,7 +76,7 @@
 | **AI/ML**              | Machine Learning, CNN, NLP, Data Analytics  |
 | **Cybersecurity**      | Threat Analysis, Basic Cryptography         |
 | **Blockchain**         | Ethereum, Smart Contracts                   |
-| **OS & Cloud**         | Linux, Windows, Basic AWS                   |
+| **OS & Cloud**         | Linux, Windows, MAC OS                      |
 
 ---
 
