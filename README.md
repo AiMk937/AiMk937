@@ -1,17 +1,3 @@
-<!-- 
-     UNIQUE, ALL-TEXT README WITH FUN ASCII ART
-     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-     HOW TO USE:
-      1. Create (or open) your repository named exactly AiMk937 (or your username if GitHub differs).
-      2. Paste this into README.md.
-      3. Replace placeholders and ASCII sections with your own details.
-      4. Commit and push to GitHub.
-      5. Enjoy your unique, all-text, no-external-links profile!
-
-     NOTE: If you wish to include actual links to your repos, LinkedIn, or email,
-           you can add them, but keep in mind the "no external references" request.
--->
 
 <pre align="center">
 
@@ -60,7 +46,6 @@
 4. **IoT Vehicle Tracker**  
    - Real-time location & speed monitoring to ensure driver and passenger safety.  
 
-- **3rd Place** at NIT Kurukshetra Hackathon  
 - Certified Software Engineer at a leading AI & cybersecurity R&D firm  
 - Several research publications in AI-based systems and IoT security  
 
@@ -83,7 +68,6 @@
 ## 📚 Education
 
 - **B.E. in Computer Engineering (2021 – 2025)**  
-  <em>Focus: Cybersecurity, AI/ML</em>  
 
 - **High School (Science Stream)**  
   <em>Graduated with a keen interest in emerging technologies.</em>
