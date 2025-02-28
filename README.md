@@ -1,113 +1,126 @@
-<!-- Add a fancy header image if you like! (Optional) -->
-<!-- <img src="https://user-images.githubusercontent.com/1234567/your-custom-banner.png" alt="banner that says AIMAAN KHAN"> -->
+<!-- 
+     UNIQUE, ALL-TEXT README WITH FUN ASCII ART
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# Hey there, I'm AIMAAN KHAN (AiMk937)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+     HOW TO USE:
+      1. Create (or open) your repository named exactly AiMk937 (or your username if GitHub differs).
+      2. Paste this into README.md.
+      3. Replace placeholders and ASCII sections with your own details.
+      4. Commit and push to GitHub.
+      5. Enjoy your unique, all-text, no-external-links profile!
 
-**Computer Engineering Student | AI & Cybersecurity Enthusiast | Full-Stack Developer**  
-<em>“Innovating with AI to make a safer digital world.”</em>
+     NOTE: If you wish to include actual links to your repos, LinkedIn, or email,
+           you can add them, but keep in mind the "no external references" request.
+-->
 
----
+<pre align="center">
 
-## 🎯 Summary
+   █████╗ ██╗███╗   ███╗ █████╗  ███╗   ███╗ █████╗ ███╗   ██╗
+  ██╔══██╗██║████╗ ████║██╔══██╗ ████╗ ████║██╔══██╗████╗  ██║
+  ███████║██║██╔████╔██║███████║ ██╔████╔██║███████║██╔██╗ ██║
+  ██╔══██║██║██║╚██╔╝██║██╔══██║ ██║╚██╔╝██║██╔══██║██║╚██╗██║
+  ██║  ██║██║██║ ╚═╝ ██║██║  ██║ ██║ ╚═╝ ██║██║  ██║██║ ╚████║
+  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-- 📚 Pursuing **BE in Computer Engineering** with Honors in **Cyber Security** (University of Mumbai, *2021–2025*)  
-- 🤖 Focused on **AI-driven threat detection**, **machine learning**, and **deep learning**  
-- 🧩 Passionate about **full-stack development**, **IoT**, and **blockchain**  
-- ✨ Always exploring emerging tech to create impactful solutions  
+        A I M A A N   K H A N   ( A i M k 9 3 7 )
 
----
+</pre>
 
-## ⚡ Key Skills & Tools
+<h2 align="center">Computer Engineering Student • AI & Cybersecurity Enthusiast</h2>
 
-| **Category**    | **Skills & Tech**                                                                                                       |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Languages**   | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Web & Cloud** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| **AI/ML**       | ![ML](https://img.shields.io/badge/Machine%20Learning-FFFFFF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAWElEQVQoU2Nk+P+/uf8ZgwAGMDIyLgGB5uwArQ1H/v5BBETbHn8GclALCcF6NaIAG0gwnCkmFRbhEa9VYYXoqUcI4NIYwgEMr6nUVkcMOFhoA9gYISluiCUoAAAAASUVORK5CYII=) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)                                                                                               |
-| **Versioning**  | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)                                                                                                             |
-| **OS**          | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)                     |
-
----
-
-## 💡 Experience
-
-### Certified Software Engineer — [cloudyBoss](https://cloudyboss.com/)
-***(Aug 2024 – Present)***  
-- Conducted **R&D on AI, data federation,** and **full-stack development** for **cloudyBoss NEXT+**.
-
-### Intern — Prism Cybersoft Private Limited
-***(June 2024 – July 2024)***  
-- Developed a **responsive website** for SOHAM software manual using **HTML, CSS, JavaScript**.
-
-### Software Developer Intern — [cloudyBoss](https://cloudyboss.com/)
-***(Aug 2023 – June 2024)***  
-- **Developed AI algorithms** for **cybersecurity threat detection**, improving endpoint security.
+<p align="center">
+  <strong>"Crafting secure & intelligent solutions, one line of code at a time."</strong>
+</p>
 
 ---
 
-## 🏗️ Projects
+## ✨ Profile Snapshot
+
+- **Name**: AIMAAN KHAN (AiMk937)  
+- **Field of Study**: BE in Computer Engineering (Honors in Cybersecurity)  
+- **Passions**:  
+  - AI & ML  
+  - Full-Stack Development (MERN)  
+  - Blockchain & IoT Security  
+- **Mission**: Combine cutting-edge technology with robust security to build impactful solutions for the modern world.
+
+---
+
+## 🚀 Projects & Achievements
 
 1. **AI Image Upscaler**  
-   - Built a **CNN** to convert low-resolution images into higher resolutions.  
-2. **AI Model for Cyber Attack Detection**  
-   - Implemented an **AI EDR** model to identify potential cyber-attacks.  
-3. **AI-Based Timetable Scheduler**  
-   - Automates generating **error-free academic timetables**.  
-4. **Inventory Management System**  
-   - Deployed and maintained a system for streamlining inventory operations.  
-5. **Toxic Comment Detector**  
-   - Created using **Machine Learning** & **NLP** techniques.  
-6. **IoT-Based Vehicle Location & Speed Monitor**  
-   - Real-time tracking for **parental peace of mind**.
+   - Created a convolutional neural network to enhance low-resolution images.  
+
+2. **Cyber Threat Detection (EDR)**  
+   - Developed an AI-based endpoint detection and response model.  
+
+3. **Inventory Management System**  
+   - Web-based application streamlining product and stock management.  
+
+4. **IoT Vehicle Tracker**  
+   - Real-time location & speed monitoring to ensure driver and passenger safety.  
+
+- **3rd Place** at NIT Kurukshetra Hackathon  
+- Certified Software Engineer at a leading AI & cybersecurity R&D firm  
+- Several research publications in AI-based systems and IoT security  
 
 ---
 
-## 🎓 Education
+## 🛠 Technical Toolbelt
 
-- **BE in Computer Engineering (Honors in Cyber Security)**  
-  *University of Mumbai (2021 – 2025)*  
-- **12th HSC** – RIMS International Junior College (2020) *63.85%*  
-- **10th SSC** – St. Mary’s High School (2017) *73%*  
-
----
-
-## 📜 Publications
-
-- [**AI powered timetable scheduler and management**](https://www.jetir.org/view?paper=JETIR2410528) — *JETIR2410528*  
-- [**IoT-Based Vehicle Location and Speed Monitoring**](https://www.jetir.org/view?paper=JETIR2404639) — *JETIR2404639*
+| Category               | Skills                                      |
+|------------------------|---------------------------------------------|
+| **Programming**        | Python, Java, C, SQL                        |
+| **Web Development**    | React, Node.js, Express, HTML/CSS/JS        |
+| **Databases**          | MongoDB, MySQL                              |
+| **AI/ML**              | Machine Learning, CNN, NLP, Data Analytics  |
+| **Cybersecurity**      | Threat Analysis, Basic Cryptography         |
+| **Blockchain**         | Ethereum, Smart Contracts                   |
+| **OS & Cloud**         | Linux, Windows, Basic AWS                   |
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Education
 
-<p align="center">
-  <a href="https://github.com/AiMk937">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AiMk937&theme=radical&hide_border=true" alt="AIMAAN's Streak"/>
-  </a>
-</p>
+- **B.E. in Computer Engineering (2021 – 2025)**  
+  <em>Focus: Cybersecurity, AI/ML</em>  
 
-<p align="center">
-  <a href="https://github.com/AiMk937">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMk937&layout=compact&theme=radical&hide_border=true" alt="AIMAAN's Top Languages"/>
-  </a>
-</p>
+- **High School (Science Stream)**  
+  <em>Graduated with a keen interest in emerging technologies.</em>
 
 ---
 
-## 🤝 Connect with Me
+## 📖 Publications & Presentations
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aimaan-khan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AiMk937)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aimaankhan2610@gmail.com)  
-**Phone**: +91 9987786026  
+- **AI Timetable Scheduler**  
+  <em>Innovative approach to error-free academic scheduling.</em>
+
+- **IoT-Based Vehicle Monitoring**  
+  <em>Enhanced security through real-time data collection & analysis.</em>
+
+*(Replace with your own paper details or remove if N/A.)*
 
 ---
 
-> *“Technology is best when it brings people together.” – Matt Mullenweg*
+## 🤝 Let's Connect
+
+- **Email**: [ aimaankhan2610 (at) gmail (dot) com ]  
+- **Phone**: +91 9987786026  
+- *(Add or remove lines if you decide to share additional contact methods.)*
+
+---
+
+<pre align="center">
+
+        "Technology is best when it brings people together."
+                     -- Matt Mullenweg
+
+</pre>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1234567/board.gif" alt="A cool AI gif" width="300"/>
-  <br><br>
-  <strong>Thanks for stopping by!</strong><br>
-  <em>Feel free to reach out or connect on LinkedIn to collaborate on exciting projects!</em>
+  <strong>Thank you for visiting my profile!</strong><br/>
+  <em>
+    Explore my repositories or get in touch to collaborate on
+    innovative projects that blend security and intelligence.
+  </em>
 </div>
