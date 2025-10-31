@@ -11,7 +11,7 @@
 
 </pre>
 
-<h2 align="center">Computer Engineering Student • AI & Cybersecurity Enthusiast</h2>
+<h2 align="center">Computer Engineer • AI & Cybersecurity Enthusiast</h2>
 
 <p align="center">
   <strong>"Crafting secure & intelligent solutions, one line of code at a time."</strong>
