@@ -4,11 +4,8 @@
 
 ### Data Science Grad Student @ SJSU | AI/ML | Cybersecurity | Full-Stack & IoT
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=M.S.+Applied+Data+Intelligence+%40+SJSU;Building+secure%2C+intelligent+systems;Python+%7C+ML+%7C+MERN+%7C+IoT" alt="Typing SVG" /></a>
-
 <a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-aimaan--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:aimaankhan2610@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=AiMk937&style=for-the-badge&color=2F81F7&label=Profile+Views" />
 
 </div>
 
@@ -41,6 +38,8 @@
 | [**Timetable Scheduler**](https://github.com/AiMk937/timetable-scheduler) | AI-powered academic timetable generator that resolves scheduling conflicts automatically. Published in JETIR. | Python |
 | [**Toxic Comment Detector**](https://github.com/AiMk937/toxic-comment-detector) | NLP model that classifies and flags toxic comments. | Python, ML |
 | [**SmartTracker IoT**](https://github.com/Mariyum008/SmartTracker-IoT) | Real-time vehicle location and speed monitoring with parent alerts. Published in JETIR. | C++, IoT |
+| **Cyber Threat Detection (EDR)** | AI-based endpoint detection and response model for identifying threats on endpoints. | Python, ML |
+| **AI Image Upscaler** | Convolutional neural network that enhances low-resolution images. | Python, CNN |
 | [**Inventory Management System**](https://github.com/AiMk937/IMS) | Web app for product and stock management, built for AK Global. | Node.js, Express, EJS |
 | [**Portfolio**](https://github.com/AiMk937/Portfolio1.1) | Personal portfolio website. | HTML, CSS, JS |
 
@@ -75,9 +74,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AiMk937&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMk937&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com?user=AiMk937&theme=tokyonight&hide_border=true" />
 
