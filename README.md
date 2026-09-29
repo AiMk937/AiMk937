@@ -1,119 +1,92 @@
-<pre align="center">
+<div align="center">
 
-   █████╗ ██╗███╗   ███╗ █████╗  █████╗ ███╗   ██╗
-  ██╔══██╗██║████╗ ████║██╔══██╗██╔══██╗████╗  ██║
-  ███████║██║██╔████╔██║███████║███████║██╔██╗ ██║
-  ██╔══██║██║██║╚██╔╝██║██╔══██║██╔══██║██║╚██╗██║
-  ██║  ██║██║██║ ╚═╝ ██║██║  ██║║██  ██║██║ ╚████║
-  ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+# Hi, I'm Aimaan Khan
 
-        A I M A A N   K H A N   ( A i M k 9 3 7 )
+### Data Science Grad Student @ SJSU | AI/ML | Cybersecurity | Full-Stack & IoT
 
-</pre>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=M.S.+Applied+Data+Intelligence+%40+SJSU;Building+secure%2C+intelligent+systems;Python+%7C+ML+%7C+MERN+%7C+IoT" alt="Typing SVG" /></a>
 
-<h2 align="center">Computer Engineer • AI & Cybersecurity Enthusiast</h2>
+<a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-aimaan--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aimaankhan2610@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=AiMk937&style=for-the-badge&color=2F81F7&label=Profile+Views" />
+
+</div>
+
+---
+
+## About Me
+
+- Pursuing an **M.S. in Applied Data Intelligence** at **San Jose State University**
+- **B.E. in Computer Engineering** (Honors in Cybersecurity), University of Mumbai
+- Published author in **JETIR** on AI scheduling and IoT vehicle monitoring
+- Interested in applied ML, security-focused AI, and hardware that talks to the cloud
+- Currently open to **internships and on-campus roles** in data, ML, and software engineering
+
+---
+
+## Experience
+
+| Role | Company | When | Focus |
+| --- | --- | --- | --- |
+| **Python Developer Intern** | BeamOptics Scientific Pvt. Ltd. | Jul - Oct 2025 | IoT milk quality testing system on Raspberry Pi |
+| **Web Developer Intern** | Prism Cybersoft Pvt. Ltd. | Jun - Jul 2024 | MERN stack web applications |
+| **Software Developer** | cloudyBoss Pty Ltd | Aug 2023 - Jun 2024 | AI-driven cybersecurity models |
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Timetable Scheduler**](https://github.com/AiMk937/timetable-scheduler) | AI-powered academic timetable generator that resolves scheduling conflicts automatically. Published in JETIR. | Python |
+| [**Toxic Comment Detector**](https://github.com/AiMk937/toxic-comment-detector) | NLP model that classifies and flags toxic comments. | Python, ML |
+| [**SmartTracker IoT**](https://github.com/Mariyum008/SmartTracker-IoT) | Real-time vehicle location and speed monitoring with parent alerts. Published in JETIR. | C++, IoT |
+| [**Inventory Management System**](https://github.com/AiMk937/IMS) | Web app for product and stock management, built for AK Global. | Node.js, Express, EJS |
+| [**Portfolio**](https://github.com/AiMk937/Portfolio1.1) | Personal portfolio website. | HTML, CSS, JS |
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <strong>"Crafting secure & intelligent solutions, one line of code at a time."</strong>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,raspberrypi,linux,git,github,vscode&perline=7" />
 </p>
 
----
-
-## ✨ Profile Snapshot
-
-- **Name**: AIMAAN KHAN (AiMk937)  
-- **Field of Study**: BE in Computer Engineering (Honors in Cybersecurity)  
-- **Passions**:  
-  - AI & ML  
-  - Full-Stack Development (MERN)  
-  - Blockchain & IoT Security  
-- **Mission**: Combine cutting-edge technology with robust security to build impactful solutions for the modern world.
+| Area | Skills |
+| --- | --- |
+| **Languages** | Python, SQL, Java, C, C++, JavaScript |
+| **Data & ML** | scikit-learn, CNNs, NLP, data analytics |
+| **Web** | React, Node.js, Express, EJS, HTML/CSS |
+| **Databases** | MongoDB, MySQL |
+| **Security** | Threat analysis, AI-based endpoint detection, basic cryptography |
+| **Hardware** | Raspberry Pi, IoT sensors, embedded systems |
 
 ---
 
-## 🚀 Projects & Achievements
+## Publications
 
-1. **AI Image Upscaler**  
-   - Created a convolutional neural network to enhance low-resolution images.  
-
-2. **Cyber Threat Detection (EDR)**  
-   - Developed an AI-based endpoint detection and response model.  
-
-3. **Inventory Management System**  
-   - Web-based application streamlining product and stock management.  
-
-4. **IoT Vehicle Tracker**  
-   - Real-time location & speed monitoring to ensure driver and passenger safety.
-
-- Certified Software Engineer at a leading AI & cybersecurity R&D firm  
-- Several research publications in AI-based systems and IoT security  
+- **AI-Powered Timetable Scheduler and Management** - *JETIR*
+- **IoT-Based Vehicle Location and Speed Monitoring for Parental Peace of Mind** - *JETIR*
 
 ---
 
-## 🛠 Technical Toolbelt
-
-| Category               | Skills                                      |
-|------------------------|---------------------------------------------|
-| **Programming**        | Python, Java, C, SQL                        |
-| **Web Development**    | React, Node.js, Express, HTML/CSS/JS        |
-| **Databases**          | MongoDB, MySQL                              |
-| **AI/ML**              | Machine Learning, CNN, NLP, Data Analytics  |
-| **Cybersecurity**      | Threat Analysis, Basic Cryptography         |
-| **Blockchain**         | Ethereum, Smart Contracts                   |
-| **OS & Cloud**         | Linux, Windows, MAC OS                      |
-
----
-
-## 📚 Education
-
-- **B.E. in Computer Engineering (2021 – 2025)**  
-
-- **High School (Science Stream)**  
-  <em>Graduated with a keen interest in emerging technologies.</em>
-
----
-
-## 📖 Publications & Presentations
-
-- **AI Timetable Scheduler**  
-  <em>Innovative approach to error-free academic scheduling.</em>
-
-- **IoT-Based Vehicle Monitoring**  
-  <em>Enhanced security through real-time data collection & analysis.</em>
-
----
-
-## 🤝 Let's Connect
-
-- **Email**: [ aimaankhan2610 (at) gmail (dot) com ]  
-- **Phone**: +91 9987786026  
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AiMk937&show_icons=true&theme=radical" alt="AIMAAN's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMk937&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiMk937&theme=radical" alt="AIMAAN's Streak Stats" height="160"/>
-</p>
-
----
-
-<pre align="center">
-
-        "Technology is best when it brings people together."
-                     -- Matt Mullenweg
-
-</pre>
+## GitHub Stats
 
 <div align="center">
-  <strong>Thank you for visiting my profile!</strong><br/>
-  <em>
-    Explore my repositories or get in touch to collaborate on
-    innovative projects that blend security and intelligence.
-  </em>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AiMk937&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiMk937&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=AiMk937&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborating on ML, security, and IoT projects - feel free to reach out.**
+
 </div>
