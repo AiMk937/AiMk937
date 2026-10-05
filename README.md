@@ -3,10 +3,10 @@
 <h3 align="center">M.S. Applied Data Intelligence @ SJSU | ML for Security & IoT | Building secure, intelligent systems</h3>
 
 <p align="center">
-  <a href="https://aimk937.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-aimk937.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-aimaan--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aimaanjkhaan@gmail.com"><img src="https://img.shields.io/badge/Email-aimaanjkhaan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-San_Jose,_CA-7AA2F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/aimaankhan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:aimaanjkhaan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/San_Jose,_CA-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
