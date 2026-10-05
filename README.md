@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-aimaan--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aimaankhan2610@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aimaanjkhaan@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-San_Jose,_CA-7AA2F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
