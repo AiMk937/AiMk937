@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Aimaan Khan 👋</h1>
 
-<h3 align="center">Data Science Grad Student @ SJSU | AI/ML | Cybersecurity | Full-Stack & IoT</h3>
+<h3 align="center">M.S. Applied Data Intelligence @ SJSU | ML for Security & IoT | Building secure, intelligent systems</h3>
 
 <p align="center">
+  <a href="https://aimk937.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-aimk937.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aimaan-khan"><img src="https://img.shields.io/badge/LinkedIn-aimaan--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aimaanjkhaan@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aimaanjkhaan@gmail.com"><img src="https://img.shields.io/badge/Email-aimaanjkhaan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-San_Jose,_CA-7AA2F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -12,11 +13,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing an **M.S. in Applied Data Intelligence** at **San Jose State University**
-- 🛡️ **B.E. in Computer Engineering** with Honors in Cybersecurity, University of Mumbai
-- 📄 Published in **JETIR** on AI scheduling and IoT vehicle monitoring
-- 🔭 Interested in applied ML, security-focused AI, and IoT systems
-- 🤝 Open to **internships and on-campus roles** in data, ML, and software engineering
+- 🎓 **M.S. in Applied Data Intelligence** at **San José State University** (in progress)
+- 🛡️ **B.E. in Computer Engineering** (Honors in Cyber Security), University of Mumbai, 2025
+- 📄 **2 publications in JETIR** - first author on an AI timetable scheduling paper, co-author on IoT vehicle monitoring
+- 🔭 Focused on **security-focused ML**, threat detection, and data-driven IoT systems
+- 🤝 Open to **internships and on-campus roles** in security, data, and ML engineering
 
 ---
 
@@ -24,9 +25,9 @@
 
 | Role | Company | When | Focus |
 | --- | --- | --- | --- |
-| **Python Developer Intern** | BeamOptics Scientific Pvt. Ltd. | Jul - Oct 2025 | IoT milk quality testing system on Raspberry Pi |
-| **Web Developer Intern** | Prism Cybersoft Pvt. Ltd. | Jun - Jul 2024 | MERN stack web applications |
-| **Software Developer** | cloudyBoss Pty Ltd | Aug 2023 - Jun 2024 | AI-driven cybersecurity models |
+| **Python Developer Intern** | BeamOptics Scientific Pvt. Ltd. | Jul 2025 - Oct 2025 | Raspberry Pi 4 milk quality (MBRT) testing machine - sensors, Kivy UI, predictive modeling |
+| **Web Developer Intern** | Prism Cybersoft Pvt. Ltd. | Jun 2024 - Jul 2024 | Responsive documentation website for SOHAM software (MERN stack) |
+| **Software Developer Intern** | cloudyBoss Pty Ltd | Aug 2023 - Jun 2024 | ML models for endpoint detection and response on STIX-compliant threat signals |
 
 ---
 
@@ -34,13 +35,13 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Timetable Scheduler**](https://github.com/AiMk937/timetable-scheduler) | AI-powered academic timetable generator that resolves scheduling conflicts automatically. Published in JETIR. | Python |
-| [**Toxic Comment Detector**](https://github.com/AiMk937/toxic-comment-detector) | NLP model that classifies and flags toxic comments. | Python, ML |
-| [**SmartTracker IoT**](https://github.com/Mariyum008/SmartTracker-IoT) | Real-time vehicle location and speed monitoring with parent alerts. Published in JETIR. | C++, IoT |
-| **Cyber Threat Detection (EDR)** | AI-based endpoint detection and response model for identifying threats on endpoints. | Python, ML |
-| **AI Image Upscaler** | Convolutional neural network that enhances low-resolution images. | Python, CNN |
-| [**Inventory Management System**](https://github.com/AiMk937/IMS) | Web app for product and stock management, built for AK Global. | Node.js, Express, EJS |
-| [**Portfolio**](https://github.com/AiMk937/Portfolio1.1) | Personal portfolio website. | HTML, CSS, JS |
+| [**Cyber-Attack Detection**](https://github.com/AiMk937/Cyber-Attack-Detection) | Random Forest classifier that flags malicious network traffic, trained on the UNSW-NB15 dataset. | Python, scikit-learn, Pandas |
+| [**AI Timetable Scheduler**](https://github.com/AiMk937/timetable-scheduler) | Conflict-free academic timetable generator using a Genetic Algorithm, with natural-language edits. Published in JETIR. | Node.js, Express, MongoDB, spaCy |
+| [**Toxic Comment Detector**](https://github.com/AiMk937/toxic-comment-detector) | Flask web app that classifies comments by toxicity level using TF-IDF and Logistic Regression. | Python, Flask, scikit-learn, NLTK |
+| [**SmartTracker IoT**](https://github.com/Mariyum008/SmartTracker-IoT) | Real-time vehicle location and speed monitoring with parent alerts (co-developed). Published in JETIR. | ESP32, C++, GPS, Blynk |
+| [**Inventory Management System**](https://github.com/AiMk937/IMS) | Product and stock management web app built for AK Global. | Node.js, Express, EJS |
+
+**🔒 Industry work (code private):** Automated MBRT milk-testing machine (BeamOptics) and endpoint detection & response models (cloudyBoss).
 
 ---
 
@@ -49,10 +50,9 @@
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 **Data & ML**<br/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -61,14 +61,17 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 **Web & Databases**<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Hardware & Tools**<br/>
+**Cloud, Hardware & Tools**<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -76,8 +79,17 @@
 
 ## 📄 Publications
 
-- **AI-Powered Timetable Scheduler and Management** - *JETIR*
-- **IoT-Based Vehicle Location and Speed Monitoring for Parental Peace of Mind** - *JETIR*
+- **AI-Powered Timetable Scheduler and Management** - *JETIR*, Vol. 11, Issue 10, Oct 2024 (first author) - [Read paper](https://www.jetir.org/view?paper=JETIR2410528)
+- **IoT-Based Vehicle Location and Speed Monitoring for Parental Peace of Mind** - *JETIR*, Vol. 11, Issue 4, Apr 2024 (co-author) - [Read paper](https://www.jetir.org/view?paper=JETIR2404639)
+
+---
+
+## 🏅 Certifications
+
+- AWS Academy Graduate - Cloud Foundations
+- AWS Educate - Machine Learning Foundations
+- Google AI Essentials
+- [All badges on Credly](https://www.credly.com/users/aimaan-khan.d4248b5d)
 
 ---
 
